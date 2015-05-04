@@ -1,0 +1,38 @@
+#pragma once
+#define NO_GUI 0
+#define VERBOSE 1
+#define WINDOW_WIDTH 1200
+#define WINDOW_HEIGHT 800
+#define N_LINES 3
+#define N_CELLS 3
+#define RW_CELL (float) 2.0/N_CELLS
+#define RH_CELL (float) 2.0/N_LINES
+#define ANT_WIDTH 0.18f
+#define ANT_HEIGHT 0.18f
+
+#define OBJECT_WIDTH	RW_CELL/5.0
+#define OBJECT_HEIGHT	RH_CELL/5.0
+	
+
+#define DEFAULT_SERVER_PORT 60000
+#define DEFAULT_SERVER_ADDRESS "127.0.0.1"
+#define SERVER_THREADS 2
+#define CLIENT_THREADS 2
+#define SOCKET_ERROR   ((int)-1)
+#define SIZEBUF 100000L
+
+
+
+#define USLEEP 200000
+
+#define POS_REJECTED -1
+#define POS_NOT_SET -2
+#define POS_OUT -3
+#define SAME_POS -4
+#define NOT_VALID -5
+
+#define N_ANTS 2
+#define N_OBJECTS 5
+#define N_TYPES_OBJECTS 3
+#define N_HEAPS 2
+#define ANT_STEPS 5
