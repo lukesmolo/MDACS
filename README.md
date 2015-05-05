@@ -18,10 +18,15 @@ represented as a 2D grid.
 * client(s) handle(s) transporting and clustering of ants given by the server
 * three different configurations are provided: easy, hard, and extreme
 
+
 ##Features
 * chance to execute the program on a single computer or on multiple computers
 connected to a network
 * clients can be on the same server's computer or on multiple computers
+
+##Requirements
+* Linux distribution
+* GLUT is required for the GUI
 
 ##GUI
 A very basic GUI is used for showing colony's progress. Thanks to [Guillaume
