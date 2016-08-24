@@ -100,8 +100,9 @@ this time everything will be ok.
 
 ##Credits
 __libEngine.a__, the GLUT based library used in this project for GUI, was written
-by [Guillaume Perez](http://www.i3s.unice.fr/~gperez/). Very soon his code will
-be available.
+by [Guillaume Perez](http://www.i3s.unice.fr/~gperez/). 
+<br>
+[Here](https://github.com/memo-p/libGraph) his project.
 ##License
 MDACS is released under the GPLv2 license.
 
